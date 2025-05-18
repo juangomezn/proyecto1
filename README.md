@@ -43,14 +43,10 @@ Este proyecto está licenciado bajo **Apache License 2.0**.
 Para más información, consulta el archivo [LICENSE](LICENSE) o visita [apache.org/licenses](https://www.apache.org/licenses/LICENSE-2.0).
 </div>
 
-##
- 
-<h3 style="margin-top: 8px; font-weight: 500;">
+<h2>
   ✨ Elaborado por
-  <img src="https://img.shields.io/badge/Juan%20David%20Gomez-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Autor" style="vertical-align: middle" >
-</h3>
-
-
+  <img src="https://img.shields.io/badge/Juan%20David%20Gomez-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Author" style="vertical-align: middle; margin-left: 8px;">
+</h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-JuanDavidGomezN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juangomezn)
 
