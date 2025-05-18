@@ -47,7 +47,7 @@ Para más información, consulta el archivo [LICENSE](LICENSE) o visita [apache.
  
 <h3 style="margin-top: 8px; font-weight: 500;">
   ✨ Elaborado por
-  <img src="https://img.shields.io/badge/Juan%20David%20Gomez-black?style=for-the-badge&logo=dev.to&logoColor=white&logoWidth=24" alt="Autor" style="vertical-align: middle; margin-left: 8px;" height="35px;" >
+  <img src="https://img.shields.io/badge/Juan%20David%20Gomez-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Autor" style="vertical-align: middle; margin-left: 8px;" height="35px;" >
 </h3>
 
 
