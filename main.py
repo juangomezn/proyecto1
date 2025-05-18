@@ -14,23 +14,23 @@ while True:
         break
 
     if opc == "1":
-        n1 = int(input("Primer Numero: "))
-        n2 = int(input("Segundo Numero: "))
+        n1 = int(input("Ingrese Primer Numero: "))
+        n2 = int(input("Ingrese Segundo Numero: "))
         print(f"\nLa suma de los numeros es {suma(n1,n2)}")
 
     if opc == "2":
-        n1 = int(input("Primer Numero: "))
-        n2 = int(input("Segundo Numero: "))
+        n1 = int(input("Ingrese Primer Numero: "))
+        n2 = int(input("Ingrese Segundo Numero: "))
         print(f"\nLa resta de los numeros es {resta(n1,n2)}")
 
     if opc == "3":
-        n1 = int(input("Primer Numero: "))
-        n2 = int(input("Segundo Numero: "))
+        n1 = int(input("Ingrese Primer Numero: "))
+        n2 = int(input("Ingrese Segundo Numero: "))
         print(f"\nLa Multiplicacion de los numeros es {multiplicacion(n1,n2)}")
 
     if opc == "4":
-        n1 = int(input("Primer Numero: "))
-        n2 = int(input("Segundo Numero: "))
+        n1 = int(input("Ingrese Primer Numero: "))
+        n2 = int(input("Ingrese Segundo Numero: "))
         print(f"\nLa division de los numeros es {division(n1,n2)}")
 
     if opc == "5":
