@@ -12,7 +12,7 @@
 ## 📌 ¿Como funciona?
 
 <p style="font-size: 16px; line-height: 1.6; padding: 12px; border-left: 4px solid #3498db;">
-    Esta calculadora consta de dos modulos  🗂️ Main y 🗂️ Modulos. El modulo Main se encarga de solicitar al usuario que elija una operación y luego solicitar los dos números a operar. El modulo calculadora que se encuentra contenido en la carpetya Modulos, se encarga de realizar las operaciones matemáticas solicitadas por el usuario. 
+    Esta calculadora consta de dos modulos  🗂️ Main y 🗂️ Modulos. El modulo Main se encarga de solicitar al usuario que elija una operación y luego solicitar los dos números a operar. El modulo calculadora que se encuentra contenido en la carpeta Modulos, se encarga de realizar las operaciones matemáticas solicitadas por el usuario. 
 </p>
 
 ## 🛠️ Funcionalidades
